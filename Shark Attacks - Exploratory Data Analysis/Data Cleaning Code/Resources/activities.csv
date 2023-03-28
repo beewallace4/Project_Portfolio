@@ -1,0 +1,152 @@
+Activity,Count,parent_activity
+Surfing,367,on_water
+Swimming,147,in_water
+Wading,59,in_water
+Fishing,29,fishing
+Standing,29,other
+Spearfishing,24,fishing
+Snorkeling,21,in_water
+Body boarding,16,on_water
+Boogie boarding,15,on_water
+Boogie Boarding,12,on_water
+Kayaking,11,on_water
+Body surfing,11,on_water
+Walking,8,other
+Kayak Fishing,8,fishing
+Diving,7,in_water
+Stand-Up Paddleboarding,6,on_water
+Swimming ,6,in_water
+Paddle boarding,6,on_water
+Floating,5,in_water
+Scuba diving,5,in_water
+Wade Fishing,4,fishing
+Jumping,4,in_water
+Kayaking / Fishing,4,fishing
+Playing,4,other
+Surf fishing,3,fishing
+Walking out of the water after surfing,3,in_water
+Kite Surfing,3,on_water
+Fishing for sharks,3,fishing
+Canoeing,3,on_water
+Sitting on surfboard,3,on_water
+Tagging sharks,3,science
+Surfing ,3,on_water
+SUP,3,on_water
+Playing in the surf,3,in_water
+Jumped into the water,2,in_water
+Treading water,2,in_water
+Kiteboarding,2,on_water
+Fishing ,2,fishing
+Kayaking ,2,on_water
+Body-boarding,2,on_water
+Jet skiing,2,on_water
+Shark fishing,2,fishing
+Swimming to shore from boat or kayak,1,in_water
+"Standing, stepped on shark",1,in_water
+Wading near a fishing net,1,in_water
+Wade-fishing,1,fishing
+Paddling,1,in_water
+Tandem surfing,1,on_water
+Holding onto an inflatable boat,1,in_water
+Touching sharks,1,science
+Free diving,1,in_water
+Night Surfing,1,on_water
+Treading water/ Surfing,1,on_water
+Standing / Surfing,1,on_water
+"Boogie boarding, kicked at object in the water",1,on_water
+Swimming with boogie board,1,in_water
+Boogie-boarding / swimming,1,on_water
+Crouching in 2' of water,1,in_water
+"Walking, carrying surfboard & stepped on shark",1,other
+Sea Disaster,1,other
+Diving in aquarium display tank,1,in_water
+Wading / fishing & carrying a bag of fish,1,fishing
+In water with diving seabirds,1,in_water
+"Swimming, wearing black wetsuit & swim fins",1,in_water
+"Fishing, removing the shark from his line",1,fishing
+Swimming with pod of dolphins,1,in_water
+Swimming (using a float),1,in_water
+Boogie boarding / wading,1,in_water
+Sailing,1,on_water
+"Spearfishing, holding mesh bag with speared fish",1,fishing
+Attempting to illegally enter the USA,1,other
+Surfing / Wading,1,on_water
+"Windsurfing, but sitting on his board",1,on_water
+Swimming out to porpoises ,1,in_water
+Conducting research,1,science
+Swimming / Body surfing,1,in_water
+Standing / surfing,1,on_water
+Swimming / snorkeling,1,in_water
+Standing alongside surfboard,1,in_water
+Floating face-down in knee-deep water,1,in_water
+Walking in shallows,1,in_water
+Wreck / Technical diving,1,in_water
+"Surfing, fell off surfboard & stepped on the shark.",1,in_water
+Swimming /  boogie boarding,1,in_water
+Swimming / Wading,1,in_water
+"Surfing, but standing in water alongside board",1,on_water
+Playing in the surf with his 2 dogs,1,in_water
+Playing soccer in the water,1,in_water
+Floating on a raft,1,on_water
+Shark Fishing,1,fishing
+"Wading, when he stepped on the shark",1,in_water
+Boogie boarding or Surfing,1,on_water
+Fishing from Surfboard,1,fishing
+Petting captive sharks,1,science
+Diving / Kissing the shark,1,in_water
+Standing or boogie boardin,1,on_water
+Shrimping,1,fishing
+Kayak fishing,1,fishing
+Kneeling in the water,1,in_water
+Kite boarding,1,on_water
+Body surfing or Boogie boarding,1,on_water
+Standing in inner tube,1,in_water
+Swimming after falling overboard,1,in_water
+Standing / Snorkeling,1,in_water
+Photographing the shark,1,science
+Attempting to rescue a shark,1,science
+Body surfing?,1,on_water
+Playing in the water,1,in_water
+Photographing fish,1,science
+Teasing a shark,1,other
+Diving ,1,in_water
+Floating in tube,1,on_water
+Fishing for squid,1,fishing
+Kite surfing,1,on_water
+Fishing in Alabama Deep Fishing Rodeo,1,fishing
+Lobstering,1,fishing
+SUP Foil boarding,1,on_water
+Surfng,1,on_water
+Photo shoot,1,science
+Feeding sharks,1,science
+Touching a shark,1,science
+Skimboarding,1,on_water
+Free diving / Photographing pilot whales,1,science
+Casting a net,1,fishing
+Playing on a sandbar,1,in_water
+Kite Boarding,1,on_water
+Reviving a sedated shark,1,science
+Removing hook from shark,1,science
+Surf paddling,1,on_water
+Floating near boat & observing bioluminesce,1,science
+Wading?,1,in_water
+Fishing for snapper,1,fishing
+Surf-skiing,1,on_water
+"Swimming, towing surfboard",1,in_water
+Air Disaster,1,other
+Crawling,1,in_water
+Paddle-surfing,1,on_water
+Surf fishing / wading,1,fishing
+Marathon swimming,1,in_water
+Measuring sharks,1,science
+"Standing, holding shark pup",1,science
+Floating ,1,in_water
+Jumping in the waves,1,in_water
+Wade fishing,1,fishing
+Sitting in the water,1,in_water
+Free diving ,1,in_water
+Wading or swimming,1,in_water
+Swimming or boogie boarding,1,in_water
+Windsurfing,1,on_water
+Walking in surf,1,in_water
+Fishing for tarpon,1,fishing
