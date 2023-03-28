@@ -1,0 +1,39 @@
+# Wine tables
+
+Wines
+-
+wine_id serial PK
+brand_id int FK >- Brand.brand_id
+vintage_id int FK >- Vintage.vintage_id
+rating float
+num_ratings int
+price float
+region_id int FK >- Region.region_id
+country_id int FK >- Country.country_id
+year int
+last_updated timestamp
+
+
+Brand
+-
+brand_id serial PK
+brand_name varchar(50)
+last_updated timestamp
+
+Vintage 
+----
+vintage_id serial PK
+vintage_name varchar(80)
+last_updated timestamp
+
+Region
+----
+region_id serial PK
+region varchar(60)
+last_updated timestamp
+
+Country
+----
+country_id serial PK
+country varchar(20)
+last_updated timestamp
